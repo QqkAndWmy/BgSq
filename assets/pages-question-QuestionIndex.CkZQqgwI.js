@@ -1,0 +1,1 @@
+import{x as s,h as t,o}from"./index-BpbZ6T0G.js";import e from"./pages-question-QuestionList.C3pxLECO.js";import"./QuestionItem.DEA59qMN.js";import"./uni-rate.BSKBJ-Oq.js";const i={__name:"QuestionIndex",setup:i=>(s((()=>{})),(s,i)=>(o(),t(e,{showLeft:!1})))};export{i as default};

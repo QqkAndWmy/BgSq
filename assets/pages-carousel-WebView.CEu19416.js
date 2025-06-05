@@ -1,0 +1,1 @@
+import{g as s,r,z as a,h as e,Y as t,o as n}from"./index-BpbZ6T0G.js";const o={__name:"WebView",setup(o){const{proxy:u}=s(),l=r();return a((s=>{l.value=s.url})),(s,r)=>{const a=t;return n(),e(a,{src:l.value},null,8,["src"])}}};export{o as default};
